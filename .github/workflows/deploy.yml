@@ -192,7 +192,7 @@ jobs:
         echo "==========================="
         echo "🎉 SUCCESS: All stages completed"
         echo ""
-        echo "📈 Pipeline Metrics:"
+        echo "Pipeline Metrics:"
         echo "  - Build: ✅ Success"
         echo "  - Tests: ✅ 13/13 passed"
         echo "  - Security: ✅ Scans completed"
